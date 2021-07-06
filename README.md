@@ -4,6 +4,6 @@ how to use:
 just open the terminal or CMD and type:
 python3 WhatsDigger.py
 and done ...! enjoy
-#Whatsapp
-#whatsapp_scrap
-#link_finder
+### Whatsapp
+# whatsapp_scrap
+### link_finder
