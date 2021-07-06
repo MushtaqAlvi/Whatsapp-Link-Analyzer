@@ -6,6 +6,6 @@ just open the terminal or CMD and type:
 python3 WhatsDigger.py
 and done ...! enjoy
 ![Sample](https://user-images.githubusercontent.com/75201919/124554571-1ba58580-de04-11eb-85a5-8c0c6695afa4.png)
-#Whatsapp
+# Whatsapp
 # WhatScraper
 # link_finder
